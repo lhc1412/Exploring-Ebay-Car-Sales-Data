@@ -1,5 +1,5 @@
 # Exploring-Ebay-Car-Sales-Data
-Th aim of this project is to clean the data and analyze the included used car listings. The dataset of used cars is from eBay Kleinanzeigen, a classifieds section of the German eBay website. The aim of this project is to clean the data and analyze the included used car listings.  
+The aim of this project is to clean the data and analyze the included used car listings. The dataset of used cars is from eBay Kleinanzeigen, a classifieds section of the German eBay website. The aim of this project is to clean the data and analyze the included used car listings.  
 
 Summary of results After analyzing the data, the key findings are following:  
 - Amoung the top 20 brands, the brand with the highest mean price is mini, following by audi and mercedes_benz. 
